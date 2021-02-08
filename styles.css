@@ -1,0 +1,31 @@
+body {
+  background: #bbf1fa;
+color: #663f3f;
+font-family: 'Varela Round', sans-serif;
+text-align: center;
+
+}
+
+header {
+font-size: 23px;
+  background: #ec4646;
+  font-family: 'Dosis', sans-serif;
+  color: white;
+}
+
+footer {
+  background: #51c2d5;
+  font-family: 'Dosis', sans-serif;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.calculator {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+
+}
